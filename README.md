@@ -72,4 +72,4 @@ If a field is unused (at the end), you can optionally leave out the blank `|` ch
 
 # Event Types
 
-LeekDuck has events categorized into several event types. These types are listed in the ScrapedDuck event documentation [here](https://github.com/bigfoott/ScrapedDuck/blob/master/docs/EVENTS.md#list-of-event-types).
+LeekDuck has events categorized into several event types. These types are listed in the ScrapedDuck event documentation [here](https://github.com/bigfoott/ScrapedDuck/wiki/Events).
